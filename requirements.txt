@@ -1,0 +1,4 @@
+python-telegram-bot
+PyMuPDF
+Pillow
+reportlab
