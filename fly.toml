@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for seha-5 on 2026-07-16T14:54:45Z
+# fly.toml app configuration file generated for seha-5-1fxbng on 2026-07-17T13:10:18Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'seha-5'
-primary_region = 'iad'
+app = 'seha-5-1fxbng'
+primary_region = 'ams'
 
 [build]
   builder = 'paketobuildpacks/builder:base'
